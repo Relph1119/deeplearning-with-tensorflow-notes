@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 1.py
+@file: forward_prop.py
 @time: 2020/2/14 23:47
 @desc: 4.10 前向传播实战的示例代码
 """
