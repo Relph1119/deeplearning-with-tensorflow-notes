@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: backward_prop.py
+@file: 7.9-backward-prop.py
 @time: 2020/2/24 17:32
 @desc: 7.9 反向传播算法实战的代码
 """

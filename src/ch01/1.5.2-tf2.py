@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 2-tf2.py
+@file: 1.5.2-tf2.py
 @time: 2020/2/14 15:34
-@desc:
+@desc: 1.5.2 TensorFlow 2的代码
 """
 
 import tensorflow as tf

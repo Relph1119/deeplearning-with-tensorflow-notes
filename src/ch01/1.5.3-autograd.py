@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 4-autograd.py
+@file: 1.5.3-autograd.py
 @time: 2020/2/14 18:02
-@desc:
+@desc: 1.5.3 功能演示-自动梯度的代码
 """
 
 import tensorflow as tf

@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 1-linear-model.py
+@file: 2.3-linear-model.py
 @time: 2020/2/14 19:13
-@desc:
+@desc: 2.3 线性模型实战的代码
 """
 
 import matplotlib.pyplot as plt

@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: model-assembly-training-and-testing.py
+@file: 8.2-model-assembly-training-and-testing.py
 @time: 2020/2/25 13:37
 @desc: 8.2 模型装配、训练与测试的示例代码，
        由于书中得到的准确值太差了，笔者调整了代码，使得准确率提高了97%

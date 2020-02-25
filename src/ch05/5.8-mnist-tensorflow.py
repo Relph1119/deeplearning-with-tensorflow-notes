@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: minst_tensorflow.py
+@file: 5.8-mnist-tensorflow.py
 @time: 2020/2/18 14:25
 @desc: 5.8 MNIST测试实战代码
 """

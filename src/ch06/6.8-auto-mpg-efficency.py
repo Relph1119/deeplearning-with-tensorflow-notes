@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: auto_mpg_efficency.py
+@file: 6.8-auto-mpg-efficency.py
 @time: 2020/2/24 12:43
 @desc: 6.8 汽车油耗预测实战的代码
 """

@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 3-cup-gup.py
+@file: 1.5.3-cup-gup.py
 @time: 2020/2/14 17:56
-@desc:
+@desc: 1.5.3 功能演示-加速计算的代码
 """
 
 import matplotlib

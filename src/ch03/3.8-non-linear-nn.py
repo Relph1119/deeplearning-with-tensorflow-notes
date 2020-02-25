@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 1-1.py
+@file: 3.8-non-linear-nn.py
 @time: 2020/2/14 20:23
-@desc:
+@desc: 3.8 手写数字图片识别体验的代码
 """
 
 import os

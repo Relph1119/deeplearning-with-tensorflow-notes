@@ -2,9 +2,9 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 1-tf1.py
+@file: 1.5.2-tf1.py
 @time: 2020/2/14 15:30
-@desc:
+@desc: 1.5.2 TensorFlow 1.x的代码
 """
 
 import tensorflow.compat.v1 as tf
