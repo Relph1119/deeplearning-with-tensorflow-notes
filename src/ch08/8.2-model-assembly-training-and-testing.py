@@ -24,16 +24,16 @@ def build_network():
                           layers.Dense(128, activation='relu'),
                           layers.Dense(64, activation='relu'),
                           layers.Dense(32, activation='relu'),
-                          layers.Dense(10, activation='softmax')])
+                          layers.Dense(10)])
     network.summary()
 
     # 模型装配
     # 采用 Adam 优化器，学习率为 0.01;采用交叉熵损失函数，包含 Softmax
     # kears sparse_categorical_crossentropy说明：
     # from_logits=False，output为经过softmax输出的概率值。
-    # from_logits=True，output为经过网络直接输出的 logits张量。
+    # from_logits=True，output为经过网络直接输出的logits张量。
     network.compile(optimizer=optimizers.Adam(learning_rate=0.01),
-                    loss=losses.CategoricalCrossentropy(from_logits=False),
+                    loss=losses.CategoricalCrossentropy(from_logits=True),
                     metrics=['accuracy']  # 设置测量指标为准确率
                     )
 
