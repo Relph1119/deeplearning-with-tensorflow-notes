@@ -15,7 +15,7 @@
 &emsp;&emsp;使用windows平台的tensorflow，将keras中的datasets和models放入到C:\Users\{pcUserName}\.keras路径下，其他的数据包，在对应的练习代码中有说明。
 
 ## 选用的《TensorFlow深度学习》版本
-<img src="./res/deeplearning-with-tensorflow-book.jpg" width="600">
+<img src="./res/deeplearning-with-tensorflow-book.jpg" width="232">
 
 
 > 书名：TensorFlow深度学习<br/>
