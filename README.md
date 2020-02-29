@@ -28,10 +28,8 @@
 ## 总结
 &emsp;&emsp;本书总共用了16天（2020年2月14日-2020年3月1日）阅读完，对TensorFlow和Keras的使用有很大的收获，其中第11、13章由于电脑的显卡不好，不能完成练习，第15章的代码还未整理，缺少pokemon（梦可宝）的数据集，其他章节的练习均完成了。  
   
-**注意：** 如果出现以下这个错误，表示显存不支持
+**注意：** 如果出现以下这个错误，说明显卡的显存太低，可以将代码和数据集放到Google Colab上面执行。
 > tensorflow.python.framework.errors_impl.ResourceExhaustedError: OOM when allocating tensor with shape[500,500,500] and type float on /job:localhost/replica:0/task:0/device:GPU:0 by allocator GPU_0_bfc [Op:Sub] name: sub/  
-
-
 
 ## LICENSE
 [GNU General Public License v3.0](https://github.com/relph1119/deeplearning-with-tensorflow-notes/blob/master/LICENSE)
