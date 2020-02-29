@@ -2,7 +2,7 @@
 # encoding: utf-8
 """
 @author: HuRuiFeng
-@file: 1.5.3-cup-gup.py
+@file: 1.5.3-cpu-gpu.py
 @time: 2020/2/14 17:56
 @desc: 1.5.3 功能演示-加速计算的代码
 """
@@ -87,4 +87,4 @@ plt.ylim([0, 100])
 plt.xlabel('矩阵大小n:(1xn)@(nx1)')
 plt.ylabel('运算时间(ms)')
 plt.legend()
-plt.savefig('gpu-time.svg')
+plt.savefig('1.5.3-cpu-gpu-time.svg')
