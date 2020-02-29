@@ -22,6 +22,8 @@
 > 作者：龙龙老师<br/>
 > 版次：2019年12月05日测试版第2版<br/>
 
+电子书（带书签-无水印版）的百度网盘地址：链接：https://pan.baidu.com/s/1CPXZSrqVTJWHc3cYXIYjNg，提取码：mrhw
+
 ## 主要贡献者（按首字母排名）
 [@胡锐锋-天国之影-Relph](https://github.com/Relph1119)
 
