@@ -12,7 +12,7 @@
 5. 相关数据集和gym包，百度网盘的下载地址：链接：https://pan.baidu.com/s/1fZ748Xz3WrgQnIaxGsrZLQ，提取码：ea6u  
 <img src="./res/keras-dataset.png" width="935">
 
-&emsp;&emsp;使用windows平台的tensorflow，将keras中的datasets和models放入到C:\Users\{pcUserName}\.keras路径下，其他的数据包，在对应的练习代码中有说明。
+&emsp;&emsp;使用windows平台的tensorflow，将keras中的datasets和models放入到C:\\Users\\{pcUserName}\\.keras路径下，其他的数据包，在对应的练习代码中有说明。
 
 ## 选用的《TensorFlow深度学习》版本
 <img src="./res/deeplearning-with-tensorflow-book.jpg" width="232">

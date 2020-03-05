@@ -4,7 +4,9 @@
 @author: HuRuiFeng
 @file: pokemon.py
 @time: 2020/3/1 0:35
-@desc:
+@desc: 15.3 宝可梦数据集实战
+       将pokemon文件夹放到ch15目录下，读取的图片路径为/ch15/pokemon，
+       通过在ch15目录下执行tensorboard --logdir=logs，查看tensorboard可视化
 """
 
 import csv
@@ -124,6 +126,7 @@ def main():
     import time
 
     # 加载pokemon数据集，指定加载训练集
+    # 返回训练集的样本路径列表，标签数字列表和编码表字典
     images, labels, table = load_pokemon('pokemon', 'train')
     print('images:', len(images), images)
     print('labels:', len(labels), labels)
