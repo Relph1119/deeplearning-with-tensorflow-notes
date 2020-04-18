@@ -9,7 +9,8 @@
 3. 关于书中的很多图，已经写好了生成数据图的代码，在对应的目录下也有数据图。
 4. 关于书中很多用jupyter notebook写的代码示例，也在对应的目录下有对应章节的ipynb文档。
 5. 关于python包的版本问题，请详见requirements.txt文件，笔者采用的tensorflow-gpu==2.0.0，可以使用cpu版本，但是运行会特别慢。
-6. 相关数据集和gym包，百度网盘的下载地址：链接：https://pan.baidu.com/s/1fZ748Xz3WrgQnIaxGsrZLQ，提取码：ea6u  
+6. keras模型与数据下载地址：链接：https://pan.baidu.com/s/1Rt6KYWUAQ8MWKY9UVVDtmQ 提取码：wedp  
+7. 相关数据集和gym包，百度网盘的下载地址：链接：https://pan.baidu.com/s/1fZ748Xz3WrgQnIaxGsrZLQ，提取码：ea6u  
 <img src="./res/keras-dataset.png" width="935">
 
 &emsp;&emsp;使用windows平台的tensorflow，将keras中的datasets和models放入到C:\\Users\\{pcUserName}\\.keras路径下，其他的数据包，在对应的练习代码中有说明。
